@@ -1,0 +1,26 @@
+footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 47px;
+    background-color: #181817;
+    font-size: 10px;
+}
+.footer-desc{
+    color: aliceblue;
+    height:47px;
+    line-height: 47px;
+}
+.site-name{
+    color: #f0a306;
+}
+.developer-name{
+    font-size: 12px;
+    font-weight: bolder;
+    margin: 0 5px;
+}
+.footer-desc a {
+    text-decoration: none;
+    color: aliceblue;
+    margin: 0 5px;
+}
